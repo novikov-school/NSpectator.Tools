@@ -35,4 +35,5 @@ build:
 
 
 artifacts:
- - path: src\NSpectator\bin\Debug\NSpectator.dll
+ - path: src\NSpectator.GallioPlugin\bin\Debug\NSpectator.GallioPlugin.dll
+ - path: src\TDNETRunner\bin\Debug\NSpectator.TDNETRunner.dll
