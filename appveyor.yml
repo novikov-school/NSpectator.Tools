@@ -7,9 +7,6 @@ branches:
 environment:
   NSpectatorVersion: 0.9.6
   NSpectatorPackageVersion: "0.9.6-ci$(APPVEYOR_BUILD_NUMBER)"
-  
-cache:
-  - packages -> **\packages.config
 
 assembly_info:
   patch: true
